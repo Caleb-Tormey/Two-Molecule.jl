@@ -1,5 +1,7 @@
 module Two_Molecule
 
-greet() = print("Hello World!")
+export plusTwo
+
+plusTwo(x) = return x+2
 
 end # module Two_Molecule
