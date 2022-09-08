@@ -1,0 +1,7 @@
+name = "Two_Molecule"
+uuid = "5f37cd53-115b-4581-af28-db08b66d8787"
+authors = ["Caleb Tormey <caleb.tormey@gmail.com>"]
+version = "0.0.1"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
