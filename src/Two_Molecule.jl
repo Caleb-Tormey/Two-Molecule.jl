@@ -1,7 +1,8 @@
 module Two_Molecule
 
-export plusTwo
+using LinearAlgebra
+using Random
+using FFTW
 
-plusTwo(x) = return x+2
-
+using("types.jl"):
 end # module Two_Molecule
